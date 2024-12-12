@@ -24,7 +24,7 @@ Este es un proyecto de consola para convertir monedas entre diferentes divisas u
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/[TU_USUARIO]/ConversorDeMoneda.git
+git clone https://github.com/Arias1504/ConversorDeMoneda.git
 ```
 ```bash
 cd ConversorDeMoneda 
